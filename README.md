@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0Geremias00
+- 👋 Hi, I’m Oscarin
 - 👀 I’m interested in ... learning more about programming.
 - 🌱 I’m currently learning ... python pero soy un  novato
 - 💞️ I’m looking to collaborate on ...
